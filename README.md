@@ -7,7 +7,7 @@
 </head>
 <body style="color:rgb(0, 0, 0);background-color:#ffc3f7">
 
-資料來源: <a href="http://www.taomi.tw/  target="_blank">桃米社區生態旅遊協會</a> <br/>
+資料來源: <a href="http://www.taomi.tw/"  target="_blank">桃米社區生態旅遊協會</a> <br/>
 E-mail：<a href="Emailto:land@homeland.org.tw.dadasd">land@homeland.org.tw.dadasd</a>
 
 <h1 style="text-align:crnter;font-family: 标楷体;">桃米生態村</h1>
