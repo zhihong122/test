@@ -5,7 +5,7 @@
 <meta name="description" content=" " />
 <title>Web</title>
 </head>
-<body style="color:rgb(0, 0, 0);background-color:#ffc3f7">
+<body style="color:rgb(0, 0, 0);background-color:white">
 
 資料來源: <a href="http://www.taomi.tw/"  target="_blank">桃米社區生態旅遊協會</a> <br/>
 E-mail：<a href="Emailto:land@homeland.org.tw.dadasd">land@homeland.org.tw.dadasd</a>
